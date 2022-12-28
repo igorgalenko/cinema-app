@@ -1,4 +1,4 @@
-package cinema.config;
+package cinema;
 
 import cinema.model.Role;
 import cinema.model.User;
